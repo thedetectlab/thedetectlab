@@ -109,7 +109,7 @@ Small scripts for the repetitive work that shouldn't need a human — files, spr
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedetectlab&hide_border=true&background=0A0F0A&stroke=33FF66&ring=33FF66&fire=33FF66&currStreakLabel=33FF66&sideLabels=B9F5C9&currStreakNum=B9F5C9&sideNums=B9F5C9&dates=1F7A3F" />
+  <img src="https://streak-stats.demolab.com/?user=thedetectlab&hide_border=true&background=0A0F0A&stroke=33FF66&ring=33FF66&fire=33FF66&currStreakLabel=33FF66&sideLabels=B9F5C9&currStreakNum=B9F5C9&sideNums=B9F5C9&dates=1F7A3F" />
 </p>
 
 ---
