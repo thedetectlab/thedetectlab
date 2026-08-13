@@ -101,16 +101,14 @@ Small scripts for the repetitive work that shouldn't need a human — files, spr
 
 ---
 
-## 📊 Stats
+## 🧭 Now
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thedetectlab&show_icons=true&hide_border=true&bg_color=0A0F0A&title_color=33FF66&icon_color=33FF66&text_color=B9F5C9&ring_color=33FF66" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedetectlab&layout=compact&hide_border=true&bg_color=0A0F0A&title_color=33FF66&text_color=B9F5C9" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=thedetectlab&hide_border=true&background=0A0F0A&stroke=33FF66&ring=33FF66&fire=33FF66&currStreakLabel=33FF66&sideLabels=B9F5C9&currStreakNum=B9F5C9&sideNums=B9F5C9&dates=1F7A3F" />
-</p>
+```yaml
+writing:      the next field guide in the SOC detection series
+maintaining:  Nmap Cheat Sheet, Wireshark Filters Reference
+reading:      MITRE ATT&CK technique writeups
+open_to:      questions, corrections, and "you missed a flag" issues
+```
 
 ---
 
