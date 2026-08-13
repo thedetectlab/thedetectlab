@@ -32,7 +32,7 @@ Wireshark, Nmap, SOC workflows, AI automation, and the mistakes nobody warns jun
 
 ### `~/skills.md`
 
-<p align="center">
+<<p align="center">
   <img src="https://img.shields.io/badge/Wireshark-33FF66?style=flat-square&logo=wireshark&logoColor=0A0F0A" />
   <img src="https://img.shields.io/badge/Nmap-33FF66?style=flat-square&logo=nmap&logoColor=0A0F0A" />
   <img src="https://img.shields.io/badge/Linux-33FF66?style=flat-square&logo=linux&logoColor=0A0F0A" />
