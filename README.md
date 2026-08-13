@@ -22,7 +22,7 @@ r o o t @ s n i f f e r : ~ #  w h o a m i
 name:        The Detect Lab
 role:        Cybersecurity & AI field guides — practical, not theoretical
 philosophy:  "Know exactly which command to run — not just the concept"
-currently:   Building playbooks people actually keep open in a second monitor
+currently:   Turning complex cybersecurity concepts into practical tools, resources, and workflows
 ```
 
 Practical guides for people who are tired of courses that explain what a port is.
