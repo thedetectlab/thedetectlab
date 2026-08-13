@@ -1,16 +1,100 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**thedetectlab/thedetectlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+r o o t @ s n i f f e r : ~ #  w h o a m i
+```
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=33FF66&center=true&vCenter=true&width=600&lines=THE+DETECT+LAB;Cybersecurity+%2F%2F+AI+%2F%2F+Field+Guides;No+fluff.+Just+the+command+to+run." alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-online-33FF66?style=for-the-badge&labelColor=0A0F0A" />
+  <img src="https://img.shields.io/badge/focus-SOC%20%2F%20AppSec%20%2F%20AI-33FF66?style=for-the-badge&labelColor=0A0F0A" />
+  <img src="https://img.shields.io/badge/mode-ethical%20use%20only-33FF66?style=for-the-badge&labelColor=0A0F0A" />
+</p>
+
+---
+
+### `~/about.md`
+
+```yaml
+name:        The Detect Lab
+role:        Cybersecurity & AI field guides — practical, not theoretical
+philosophy:  "Know exactly which command to run — not just the concept"
+currently:   Building playbooks people actually keep open in a second monitor
+```
+
+Practical guides for people who are tired of courses that explain what a port is.
+Wireshark, Nmap, SOC workflows, AI automation, and the mistakes nobody warns junior devs about — turned into field guides you actually use when something's broken.
+
+---
+
+### `~/skills.md`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-33FF66?style=flat-square&logo=wireshark&logoColor=0A0F0A" />
+  <img src="https://img.shields.io/badge/Nmap-33FF66?style=flat-square&logo=nmap&logoColor=0A0F0A" />
+  <img src="https://img.shields.io/badge/Linux-33FF66?style=flat-square&logo=linux&logoColor=0A0F0A" />
+  <img src="https://img.shields.io/badge/Python-33FF66?style=flat-square&logo=python&logoColor=0A0F0A" />
+  <img src="https://img.shields.io/badge/SQL-33FF66?style=flat-square&logo=postgresql&logoColor=0A0F0A" />
+  <img src="https://img.shields.io/badge/Git-33FF66?style=flat-square&logo=git&logoColor=0A0F0A" />
+  <img src="https://img.shields.io/badge/Regex-33FF66?style=flat-square&logo=regex101&logoColor=0A0F0A" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-33FF66?style=flat-square&logo=openai&logoColor=0A0F0A" />
+</p>
+
+| Domain | Tools / Focus |
+|---|---|
+| 🦈 Network Analysis | Wireshark, tshark, packet-level troubleshooting |
+| 🎯 Recon & Scanning | Nmap, service enumeration, capture filters |
+| 🛡 SOC Operations | Alert triage, shift handover, log correlation |
+| 🤖 AI Workflows | Prompt engineering, automation pipelines, AI-assisted research |
+| 🧩 Dev Fundamentals | Regex, SQL, Git, API testing — the stuff that shows up under pressure |
+
+---
+
+### `~/field_guides.md` — from THE DETECT LAB store
+
+| Guide | What it actually gets you |
+|---|---|
+| 🦈 **The Hacker's Guide** | Wireshark + Nmap fundamentals — from "I know the concept" to "I know the command" |
+| 🛡 **SOC Starter Kit** | Real Event IDs, alert triage, shift-handover workflow — not a watered-down teaser |
+| 🤖 **The Complete AI Toolkit** | Prompt engineering, trading research, everyday productivity — 3 practical playbooks |
+| ⚠️ **50 Mistakes Junior Developers Make** | Every mistake every senior dev already made, laid out before it costs you |
+| 🔍 **Complete Regex Patterns Playbook** | For the 11pm you're rebuilding the same validation pattern — again |
+| 🗃 **SQL Query Playbook** | Every join type, explained by example — writing queries that stay fast at scale |
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/→_Full_catalog-link_in_bio-0A0F0A?style=for-the-badge&labelColor=33FF66" /></a>
+</p>
+
+---
+
+### `~/stats.sh`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thedetectlab&show_icons=true&hide_border=true&bg_color=0A0F0A&title_color=33FF66&icon_color=33FF66&text_color=B9F5C9&ring_color=33FF66" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedetectlab&layout=compact&hide_border=true&bg_color=0A0F0A&title_color=33FF66&text_color=B9F5C9" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedetectlab&hide_border=true&background=0A0F0A&stroke=33FF66&ring=33FF66&fire=33FF66&currStreakLabel=33FF66&sideLabels=B9F5C9&currStreakNum=B9F5C9&sideNums=B9F5C9&dates=1F7A3F" />
+</p>
+
+---
+
+### `~/connect.md`
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Threads-@thedetectlab-33FF66?style=for-the-badge&labelColor=0A0F0A" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Store-Field_Guides-33FF66?style=for-the-badge&labelColor=0A0F0A" /></a>
+</p>
+
+<div align="center">
+
+```
+[ EDUCATIONAL EDITION // FOR ETHICAL USE ONLY ]
+connection stays open — pull requests, questions, and packet captures welcome
+```
+
+</div>
