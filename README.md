@@ -33,14 +33,14 @@ Wireshark, Nmap, SOC workflows, AI automation, and the mistakes nobody warns jun
 ### `~/skills.md`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-E2E8F0?style=flat-square&logo=wireshark&logoColor=0F172A" />
-  <img src="https://img.shields.io/badge/Nmap-E2E8F0?style=flat-square&logo=nmap&logoColor=0F172A" />
-  <img src="https://img.shields.io/badge/Linux-E2E8F0?style=flat-square&logo=linux&logoColor=0F172A" />
-  <img src="https://img.shields.io/badge/Python-E2E8F0?style=flat-square&logo=python&logoColor=0F172A" />
-  <img src="https://img.shields.io/badge/SQL-E2E8F0?style=flat-square&logo=postgresql&logoColor=0F172A" />
-  <img src="https://img.shields.io/badge/Git-E2E8F0?style=flat-square&logo=git&logoColor=0F172A" />
-  <img src="https://img.shields.io/badge/Regex-E2E8F0?style=flat-square&logo=regex101&logoColor=0F172A" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-E2E8F0?style=flat-square&logo=openai&logoColor=0F172A" />
+  <img src="https://img.shields.io/badge/Wireshark-00FFFF?style=flat-square&logo=wireshark&logoColor=0A0F0A" />
+  <img src="https://img.shields.io/badge/Nmap-00FFFF?style=flat-square&logo=nmap&logoColor=0A0F0A" />
+  <img src="https://img.shields.io/badge/Linux-00FFFF?style=flat-square&logo=linux&logoColor=0A0F0A" />
+  <img src="https://img.shields.io/badge/Python-00FFFF?style=flat-square&logo=python&logoColor=0A0F0A" />
+  <img src="https://img.shields.io/badge/SQL-00FFFF?style=flat-square&logo=postgresql&logoColor=0A0F0A" />
+  <img src="https://img.shields.io/badge/Git-00FFFF?style=flat-square&logo=git&logoColor=0A0F0A" />
+  <img src="https://img.shields.io/badge/Regex-00FFFF?style=flat-square&logo=regex101&logoColor=0A0F0A" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-00FFFF?style=flat-square&logo=openai&logoColor=0A0F0A" />
 </p>
 
 | Domain | Tools / Focus |
