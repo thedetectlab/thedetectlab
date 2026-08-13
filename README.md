@@ -53,22 +53,6 @@ Wireshark, Nmap, SOC workflows, AI automation, and the mistakes nobody warns jun
 
 ---
 
-### `~/field_guides.md` — from THE DETECT LAB store
-
-| Guide | What it actually gets you |
-|---|---|
-| 🦈 **The Hacker's Guide** | Wireshark + Nmap fundamentals — from "I know the concept" to "I know the command" |
-| 🛡 **SOC Starter Kit** | Real Event IDs, alert triage, shift-handover workflow — not a watered-down teaser |
-| 🤖 **The Complete AI Toolkit** | Prompt engineering, trading research, everyday productivity — 3 practical playbooks |
-| ⚠️ **50 Mistakes Junior Developers Make** | Every mistake every senior dev already made, laid out before it costs you |
-| 🔍 **Complete Regex Patterns Playbook** | For the 11pm you're rebuilding the same validation pattern — again |
-| 🗃 **SQL Query Playbook** | Every join type, explained by example — writing queries that stay fast at scale |
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/→_Full_catalog-link_in_bio-0A0F0A?style=for-the-badge&labelColor=33FF66" /></a>
-</p>
-
----
 
 ### `~/stats.sh`
 
@@ -83,12 +67,6 @@ Wireshark, Nmap, SOC workflows, AI automation, and the mistakes nobody warns jun
 
 ---
 
-### `~/connect.md`
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Threads-@thedetectlab-33FF66?style=for-the-badge&labelColor=0A0F0A" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Store-Field_Guides-33FF66?style=for-the-badge&labelColor=0A0F0A" /></a>
-</p>
 
 <div align="center">
 
