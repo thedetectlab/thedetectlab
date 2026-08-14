@@ -45,14 +45,14 @@ No name, no headshot, no employer namedropping. Just the work — Wireshark, Nma
 
 ### 🦈 Nmap Cheat Sheet
 Every flag that actually matters — host discovery, scan types, NSE scripts, output formats.
-<br><sub>`nmap` · `recon` · `bash`</sub> · [→ repo](https://github.com/thedetectlab/nmap-cheatsheet)
+<br><sub>`nmap` · `recon` · `bash`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/tree/main/nmap-cheatsheet)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔍 Wireshark Filters Reference
 Display and capture filters that come up in real troubleshooting, not the whole manual rewritten.
-<br><sub>`wireshark` · `tshark` · `pcap`</sub> · [→ repo](https://github.com/thedetectlab/wireshark-filters)
+<br><sub>`wireshark` · `tshark` · `pcap`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/blob/main/wireshark-filters)
 
 </td>
 </tr>
@@ -61,14 +61,14 @@ Display and capture filters that come up in real troubleshooting, not the whole 
 
 ### 🛡 SOC Detection Queries
 Real Event IDs, real SPL/KQL queries, mapped to MITRE ATT&CK — ten attacks, ready to adapt.
-<br><sub>`SOC` · `MITRE` · `splunk` · `sentinel`</sub> · [→ repo](https://github.com/thedetectlab/soc-detection-queries)
+<br><sub>`SOC` · `MITRE` · `splunk` · `sentinel`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/blob/main/soc-detection-queries)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🐍 Python Automation Snippets
 Small scripts for repetitive work that shouldn't need a human — files, spreadsheets, PDFs, web data.
-<br><sub>`python` · `automation` · `scripting`</sub> · [→ repo](https://github.com/thedetectlab/python-automation-snippets)
+<br><sub>`python` · `automation` · `scripting`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/blob/main/python-automation-snippets)
 
 </td>
 </tr>
