@@ -153,7 +153,7 @@ open_to:      corrections, PRs, and "you missed a flag" issues
 ## 📡 Contact
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Threads-@thedetectlab-33FF66?style=for-the-badge&labelColor=0A0F0A" /></a>
+  <a href="https://www.threads.com/@thedetectlab?invite=0"><img src="https://img.shields.io/badge/Threads-@thedetectlab-33FF66?style=for-the-badge&labelColor=0A0F0A" /></a>
 </p>
 
 <div align="center">
