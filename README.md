@@ -83,17 +83,17 @@ Small scripts for repetitive work that shouldn't need a human — files, spreads
 <table>
 <tr><td>
 
-**[Anatomy of a SQL Injection](#)** — how one unescaped quote breaks a query, and the fix that actually holds
+**[Anatomy of a SQL Injection](https://github.com/thedetectlab/writeups/tree/main/sql-injection)** — how one unescaped quote breaks a query, and the fix that actually holds
 
 </td></tr>
 <tr><td>
 
-**[TCP 3-Way Handshake, Packet by Packet](#)** — what Wireshark is really showing you in those first three lines
+**[TCP 3-Way Handshake, Packet by Packet](https://github.com/thedetectlab/writeups/tree/main/tcp-handshake)** — what Wireshark is really showing you in those first three lines
 
 </td></tr>
 <tr><td>
 
-**[ARP Spoofing: Anatomy of a MITM](#)** — how a network ends up trusting the last reply it heard
+**[ARP Spoofing: Anatomy of a MITM](https://github.com/thedetectlab/writeups/tree/main/arp-spoofing)** — how a network ends up trusting the last reply it heard
 
 </td></tr>
 </table>
