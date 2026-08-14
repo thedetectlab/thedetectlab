@@ -61,7 +61,7 @@ Display and capture filters that come up in real troubleshooting, not the whole 
 
 ### 🛡 SOC Detection Queries
 Real Event IDs, real SPL/KQL queries, mapped to MITRE ATT&CK — ten attacks, ready to adapt.
-<br><sub>`SOC` · `MITRE` · `splunk` · `sentinel`</sub> · [→ repo](#)
+<br><sub>`SOC` · `MITRE` · `splunk` · `sentinel`</sub> · [→ repo](https://github.com/thedetectlab/soc-detection-queries)
 
 </td>
 <td width="50%" valign="top">
