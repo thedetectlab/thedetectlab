@@ -29,7 +29,7 @@ r o o t @ s n i f f e r : ~ #  w h o a m i
 ```yaml
 handle:      The Detect Lab
 operates_as: an anonymous cybersecurity research & field-guide practice
-why_no_name: work should be judged on its own — not on a face, a title, or a resume
+focus:       network security, SOC operations, applied appsec
 what_i_do:   turn dense security concepts into practical, field-tested references
 ```
 
@@ -160,7 +160,7 @@ open_to:      corrections, PRs, and "you missed a flag" issues
 
 ```
 [ EDUCATIONAL EDITION // FOR ETHICAL USE ONLY ]
-no name attached — just open an issue, or reply to a thread
+questions, corrections, or requests — open an issue or reply to a thread
 ```
 
 </div>
