@@ -45,14 +45,14 @@ No name, no headshot, no employer namedropping. Just the work — Wireshark, Nma
 
 ### 🦈 Nmap Cheat Sheet
 Every flag that actually matters — host discovery, scan types, NSE scripts, output formats.
-<br><sub>`nmap` · `recon` · `bash`</sub> · [→ repo](#)
+<br><sub>`nmap` · `recon` · `bash`</sub> · [→ repo](https://github.com/thedetectlab/nmap-cheatsheet)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔍 Wireshark Filters Reference
 Display and capture filters that come up in real troubleshooting, not the whole manual rewritten.
-<br><sub>`wireshark` · `tshark` · `pcap`</sub> · [→ repo](#)
+<br><sub>`wireshark` · `tshark` · `pcap`</sub> · [→ repo](https://github.com/thedetectlab/wireshark-filters)
 
 </td>
 </tr>
@@ -68,7 +68,7 @@ Real Event IDs, real SPL/KQL queries, mapped to MITRE ATT&CK — ten attacks, re
 
 ### 🐍 Python Automation Snippets
 Small scripts for repetitive work that shouldn't need a human — files, spreadsheets, PDFs, web data.
-<br><sub>`python` · `automation` · `scripting`</sub> · [→ repo](#)
+<br><sub>`python` · `automation` · `scripting`</sub> · [→ repo](https://github.com/thedetectlab/python-automation-snippets)
 
 </td>
 </tr>
