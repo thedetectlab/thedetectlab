@@ -52,7 +52,7 @@ Every flag that actually matters — host discovery, scan types, NSE scripts, ou
 
 ### 🔍 Wireshark Filters Reference
 Display and capture filters that come up in real troubleshooting, not the whole manual rewritten.
-<br><sub>`wireshark` · `tshark` · `pcap`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/blob/main/wireshark-filters)
+<br><sub>`wireshark` · `tshark` · `pcap`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/tree/main/wireshark-filters)
 
 </td>
 </tr>
@@ -61,16 +61,26 @@ Display and capture filters that come up in real troubleshooting, not the whole 
 
 ### 🛡 SOC Detection Queries
 Real Event IDs, real SPL/KQL queries, mapped to MITRE ATT&CK — ten attacks, ready to adapt.
-<br><sub>`SOC` · `MITRE` · `splunk` · `sentinel`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/blob/main/soc-detection-queries)
+<br><sub>`SOC` · `MITRE` · `splunk` · `sentinel`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/tree/main/soc-detection-queries)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🐍 Python Automation Snippets
 Small scripts for repetitive work that shouldn't need a human — files, spreadsheets, PDFs, web data.
-<br><sub>`python` · `automation` · `scripting`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/blob/main/python-automation-snippets)
+<br><sub>`python` · `automation` · `scripting`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/tree/main/python-automation-snippets)
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Home SOC Lab
+Spin up a full Elasticsearch + Kibana detection lab, pre-loaded with synthetic security events, in one command.
+<br><sub>`docker` · `elasticsearch` · `kibana`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/tree/main/home-soc-lab)
+
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -113,6 +123,8 @@ Small scripts for repetitive work that shouldn't need a human — files, spreads
   <img src="https://img.shields.io/badge/Git-00FFFF?style=flat-square&logo=git&logoColor=0A0F0A" />
   <img src="https://img.shields.io/badge/Regex-00FFFF?style=flat-square&logo=regex101&logoColor=0A0F0A" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-00FFFF?style=flat-square&logo=openai&logoColor=0A0F0A" />
+  <img src="https://img.shields.io/badge/Docker-00FFFF?style=flat-square&logo=docker&logoColor=0A0F0A" />
+  <img src="https://img.shields.io/badge/Elasticsearch-00FFFF?style=flat-square&logo=elasticsearch&logoColor=0A0F0A" />
 </p>
 
 | Domain | Focus |
@@ -120,6 +132,7 @@ Small scripts for repetitive work that shouldn't need a human — files, spreads
 | 🦈 Network Analysis | Wireshark, tshark, packet-level troubleshooting |
 | 🎯 Recon & Scanning | Nmap, service enumeration, capture filters |
 | 🛡 SOC Operations | Alert triage, shift handover, log correlation, MITRE ATT&CK mapping |
+| 🧪 SOC Lab & Tooling | Elasticsearch, Kibana, Docker — detection environments you can actually run |
 | 🐛 AppSec | Injection attacks, secure query design, common vuln classes |
 | 🤖 AI Workflows | Prompt engineering, automation pipelines, AI-assisted research |
 | 🧩 Dev Fundamentals | Regex, SQL, Git — the stuff that shows up under pressure |
@@ -143,7 +156,7 @@ Small scripts for repetitive work that shouldn't need a human — files, spreads
 
 ```yaml
 writing:      the next entry in the SOC detection series
-maintaining:  Nmap Cheat Sheet, Wireshark Filters Reference
+maintaining:  Nmap Cheat Sheet, Wireshark Filters Reference, Home SOC Lab
 reading:      MITRE ATT&CK technique writeups
 open_to:      corrections, PRs, and "you missed a flag" issues
 ```
