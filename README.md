@@ -116,6 +116,8 @@ Spin up a full Elasticsearch + Kibana detection lab, pre-loaded with synthetic s
 **[The HTTP Request/Response Cycle](https://github.com/thedetectlab/writeups/tree/main/http-cycle)** — a full round trip, sitting right there in a Wireshark capture if you know where to look
 
 </td></tr>
+<tr><td>
+
 </table>
 
 <p align="center"><sub>Longer breakdowns live here — the repos above are the reference version, this is the explanation.</sub></p>
