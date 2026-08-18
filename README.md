@@ -108,6 +108,16 @@ Spin up a full Elasticsearch + Kibana detection lab, pre-loaded with synthetic s
 </td></tr>
 </table>
 
+**[The OSI Model — How Data Actually Travels the Network](https://github.com/thedetectlab/writeups/tree/main/osi-model)** — figure out which layer is broken, and you've cut the search space by 85%
+
+</td></tr>
+<tr><td>
+
+**[The HTTP Request/Response Cycle](https://github.com/thedetectlab/writeups/tree/main/http-cycle)** — a full round trip, sitting right there in a Wireshark capture if you know where to look
+
+</td></tr>
+</table>
+
 <p align="center"><sub>Longer breakdowns live here — the repos above are the reference version, this is the explanation.</sub></p>
 
 ---
