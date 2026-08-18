@@ -106,7 +106,6 @@ Spin up a full Elasticsearch + Kibana detection lab, pre-loaded with synthetic s
 **[ARP Spoofing: Anatomy of a MITM](https://github.com/thedetectlab/writeups-/tree/main/arp-spoofing)** — how a network ends up trusting the last reply it heard
 
 </td></tr>
-</table>
 
 **[The OSI Model — How Data Actually Travels the Network](https://github.com/thedetectlab/writeups/tree/main/osi-model)** — figure out which layer is broken, and you've cut the search space by 85%
 
