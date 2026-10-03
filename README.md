@@ -75,23 +75,7 @@ Small scripts for repetitive work that shouldn't need a human — files, spreads
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 Home SOC Lab
-Spin up a full Elasticsearch + Kibana detection lab, pre-loaded with synthetic security events, in one command.
-<br><sub>`docker` · `elasticsearch` · `kibana`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/tree/main/home-soc-lab)
-
-</td>
-<td width="50%" valign="top"></td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧫 Malware Analysis Lab
-Static and dynamic analysis of real samples in an isolated sandbox — strings, PE headers, YARA rules, and behavior captured live in Wireshark.
-<br><sub>`malware-analysis` · `yara` · `sandbox` · `flarevm`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/tree/main/malware-analysis-lab)
-
-</td>
-<td width="50%" valign="top">
+| 🧪 Home SOC Lab[#-home-soc-lab](#-home-soc-lab)<br>Spin up a full Elasticsearch + Kibana detection lab, pre-loaded with synthetic security events, in one command.  `docker` · `elasticsearch` · `kibana` · [→ repo](https://github.com/thedetectlab/Featured-Work/tree/main/home-soc-lab) | 🧫 Malware Analysis Lab[#-malware-analysis-lab](#-malware-analysis-lab)<br>Static and dynamic analysis of samples in an isolated sandbox — strings, PE headers, YARA rules, and behavior captured live in Wireshark.  `malware-analysis` · `yara` · `sandbox` · `flarevm` · [→ repo](https://github.com/thedetectlab/Featured-Work/tree/main/malware-analysis-lab) |
 </table>
 
 <p align="center"><sub>⭐ starring a repo is the easiest way to keep it on your radar — new work gets added on no fixed schedule, whenever it's field-tested enough to publish.</sub></p>
