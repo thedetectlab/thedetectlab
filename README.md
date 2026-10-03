@@ -88,7 +88,7 @@ Spin up a full Elasticsearch + Kibana detection lab, pre-loaded with synthetic s
 
 ### 🧫 Malware Analysis Lab
 Static and dynamic analysis of real samples in an isolated sandbox — strings, PE headers, YARA rules, and behavior captured live in Wireshark.
-<br><sub>`malware-analysis` · `yara` · `sandbox` · `flarevm`</sub> · [→ repo](https://github.com/thedetectlab/malware-analysis-lab)
+<br><sub>`malware-analysis` · `yara` · `sandbox` · `flarevm`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/tree/main/malware-analysis-lab)
 
 </td>
 <td width="50%" valign="top">
