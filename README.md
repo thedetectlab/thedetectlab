@@ -82,6 +82,16 @@ Spin up a full Elasticsearch + Kibana detection lab, pre-loaded with synthetic s
 </td>
 <td width="50%" valign="top"></td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧫 Malware Analysis Lab
+Static and dynamic analysis of real samples in an isolated sandbox — strings, PE headers, YARA rules, and behavior captured live in Wireshark.
+<br><sub>`malware-analysis` · `yara` · `sandbox` · `flarevm`</sub> · [→ repo](https://github.com/thedetectlab/malware-analysis-lab)
+
+</td>
+<td width="50%" valign="top">
 </table>
 
 <p align="center"><sub>⭐ starring a repo is the easiest way to keep it on your radar — new work gets added on no fixed schedule, whenever it's field-tested enough to publish.</sub></p>
