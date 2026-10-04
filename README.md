@@ -49,6 +49,8 @@ No name, no headshot, no employer namedropping. Just the work — Wireshark, Nma
 
 ## 🗂 Featured Work
 
+## 🗂 Featured Work
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -85,9 +87,6 @@ Small scripts for repetitive work that shouldn't need a human — files, spreads
 <tr>
 <td width="50%" valign="top">
 
-<tr>
-<td width="50%" valign="top">
-
 ### 🧪 Home SOC Lab
 Spin up a full Elasticsearch + Kibana detection lab, pre-loaded with synthetic security events, in one command.
 <br><sub>`docker` · `elasticsearch` · `kibana`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/tree/main/home-soc-lab)
@@ -101,23 +100,23 @@ Static and dynamic analysis of samples in an isolated sandbox — strings, PE he
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 🎣 AI Phishing Email Analyzer
 One-machine project: Python app + detection logic + optional local AI explanation.
-<br><sub>`python`</sub> · `streamlit` · `phishing-detection`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/tree/main/ai-phishing-analyzer)
+<br><sub>`python` · `streamlit` · `phishing-detection`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/tree/main/ai-phishing-analyzer)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛡️ AI SOC Analyst Lab
 One-machine project: Python app + MITRE ATT&CK triage logic + optional local AI incident narrative.
-<br><sub>`python`</sub> · `streamlit` · `mitre-attack`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/tree/main/ai-soc-analyst-lab)
+<br><sub>`python` · `streamlit` · `mitre-attack`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/tree/main/ai-soc-analyst-lab)
 
 </td>
 </tr>
+</table>
 
 <p align="center"><sub>⭐ starring a repo is the easiest way to keep it on your radar — new work gets added on no fixed schedule, whenever it's field-tested enough to publish.</sub></p>
 
@@ -151,11 +150,10 @@ One-machine project: Python app + MITRE ATT&CK triage logic + optional local AI 
 **[The HTTP Request/Response Cycle](https://github.com/thedetectlab/writeups-/tree/main/http-request)** — a full round trip, sitting right there in a Wireshark capture if you know where to look
 
 </td></tr>
-<tr><td>
-
 </table>
 
 <p align="center"><sub>Longer breakdowns live here — the repos above are the reference version, this is the explanation.</sub></p>
+
 
 ---
 
