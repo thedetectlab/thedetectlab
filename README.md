@@ -100,9 +100,6 @@ One-machine project: Python app + detection logic + optional local AI explanatio
 <br><sub>`python`</sub> · `streamlit` · `phishing-detection`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/tree/main/ai-phishing-analyzer)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ AI SOC Analyst Lab
