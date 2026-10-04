@@ -47,7 +47,6 @@ No name, no headshot, no employer namedropping. Just the work — Wireshark, Nma
 
 ---
 
-## 🗂 Featured Work
 
 ## 🗂 Featured Work
 
