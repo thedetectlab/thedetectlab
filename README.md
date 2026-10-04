@@ -102,6 +102,16 @@ One-machine project: Python app + detection logic + optional local AI explanatio
 </td>
 </tr>
 
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ AI SOC Analyst Lab
+One-machine project: Python app + MITRE ATT&CK triage logic + optional local AI incident narrative.
+<br><sub>`python`</sub> · `streamlit` · `mitre-attack`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/tree/main/ai-soc-analyst-lab)
+
+</td>
+</tr>
+
 <p align="center"><sub>⭐ starring a repo is the easiest way to keep it on your radar — new work gets added on no fixed schedule, whenever it's field-tested enough to publish.</sub></p>
 
 ---
