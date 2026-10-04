@@ -92,6 +92,16 @@ Static and dynamic analysis of samples in an isolated sandbox — strings, PE he
 </td>
 </tr>
 
+<tr>
+<td width="50%" valign="top">
+
+### 🎣 AI Phishing Email Analyzer
+One-machine project: Python app + detection logic + optional local AI explanation.
+<br><sub>`python`</sub> · `streamlit` · `phishing-detection`</sub> · [→ repo](https://github.com/thedetectlab/Featured-Work/tree/main/ai-phishing-analyzer)
+
+</td>
+</tr>
+
 <p align="center"><sub>⭐ starring a repo is the easiest way to keep it on your radar — new work gets added on no fixed schedule, whenever it's field-tested enough to publish.</sub></p>
 
 ---
