@@ -24,6 +24,16 @@ r o o t @ s n i f f e r : ~ #  w h o a m i
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thedetectlab/thedetectlab/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thedetectlab/thedetectlab/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/thedetectlab/thedetectlab/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ### `~/about.md`
 
 ```yaml
